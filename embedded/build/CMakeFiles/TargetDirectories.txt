@@ -1,0 +1,3 @@
+/home/artem/MyPrograms/C++/HOME_ALERT_PROJECT/embedded/build/CMakeFiles/HOME_ALERT.dir
+/home/artem/MyPrograms/C++/HOME_ALERT_PROJECT/embedded/build/CMakeFiles/edit_cache.dir
+/home/artem/MyPrograms/C++/HOME_ALERT_PROJECT/embedded/build/CMakeFiles/rebuild_cache.dir

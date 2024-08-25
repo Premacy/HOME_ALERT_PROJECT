@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/HOME_ALERT.dir/main.o CMakeFiles/HOME_ALERT.dir/Application/src/Application.o -o HOME_ALERT 

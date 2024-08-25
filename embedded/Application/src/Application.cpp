@@ -29,7 +29,8 @@ void Application::MainLoop(){
 		boost::system::error_code ec;
 
 		std::cout << "Try to send message..." << std::endl;
-		socket.send(boost::asio::buffer(str.c_str(), str.size()));
+		int bytes_sended = socket.send(boost::asio::buffer(str.c_str(), str.size()));
+		std::cout << bytes_sended << " bytes was sended" << std::endl;
 
 		if(ec){
 			std::cout << "Close connection" << std::endl;
